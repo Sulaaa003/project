@@ -1,0 +1,60 @@
+.container {
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+#contact-section {
+    height: 100vh;
+    padding: 0 5px;
+    color: #22356F;
+    overflow-x: hidden;
+    user-select: none;
+    max-width: 1440px;
+    margin: 0 auto;
+
+    position: relative;
+    padding: 103px 0 42px;
+    background-color: #22356F;
+    color: #fff;
+}
+
+.contact-title {
+    margin-bottom: 75px;
+    font-size: 64px;
+    letter-spacing: -0.01em;
+}
+
+.contact-subtitle {
+    margin-bottom: 230px;
+    font-size: 16px;
+    letter-spacing: 0.06em;
+}
+
+.contact-txt {
+    margin-bottom: 80px;
+    max-width: 579px;
+    font-size: 36px;
+    line-height: 53px;
+    letter-spacing: -0.005em;
+}
+
+.contact-link {
+    transition: .4s ease-in;
+    cursor: pointer;
+    font-size: 16px;
+    color: #62D0DF;
+}
+
+.contact-link:hover {
+    color: #df62d5;
+}
+
+.contact-img {
+    position: absolute;
+    width: 30%;
+    height: 100%;
+    right: 0%;
+    bottom: 0%;
+    background: url("./contact-bg.png") no-repeat 100%;
+    background-size: cover;
+}
