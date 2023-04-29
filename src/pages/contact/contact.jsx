@@ -9,9 +9,8 @@ export const Contact = () => {
         <div className="container">
           <div className="contact">
             <div className="contact-subtitle">CONTACT US</div>
-            <div className="contact-title">Ready. Set. Smile</div>
-            <div className="contact-txt">Take the free online assessment to see if you are a candidate and get
-              started on your journey.</div>
+            <div className="contact-title">Niyazbek Sultan</div>
+            <div className="contact-txt">87072003066 niyazbek_sultan@mail.ru.</div>
             <Link to="/"> 
             <div className="contact-link">GET HELP NOW</div>
             </Link>
